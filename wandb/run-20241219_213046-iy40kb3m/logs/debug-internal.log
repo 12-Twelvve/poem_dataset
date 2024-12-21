@@ -1,0 +1,17 @@
+{"time":"2024-12-19T21:30:46.30865785+05:45","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-19T21:30:46.3086775+05:45","level":"INFO","msg":"created symlink","path":"/home/legion/Documents/datascience/poem_dataset/wandb/run-20241219_213046-iy40kb3m/logs/debug-core.log"}
+{"time":"2024-12-19T21:30:46.411215511+05:45","level":"INFO","msg":"created new stream","id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:46.4112453+05:45","level":"INFO","msg":"stream: started","id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:46.411261753+05:45","level":"INFO","msg":"writer: Do: started","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:46.411265421+05:45","level":"INFO","msg":"handler: started","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:46.41128736+05:45","level":"INFO","msg":"sender: started","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:46.935751933+05:45","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-19T21:30:47.36024376+05:45","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-19T21:30:47.360692215+05:45","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-19T21:30:48.361776854+05:45","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.391518892}],"total_operations":1}}
+{"time":"2024-12-19T21:30:49.154517557+05:45","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-19T21:30:50.633304651+05:45","level":"INFO","msg":"stream: closing","id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:50.633324581+05:45","level":"INFO","msg":"handler: closed","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:50.633334307+05:45","level":"INFO","msg":"writer: Close: closed","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:50.633339394+05:45","level":"INFO","msg":"sender: closed","stream_id":"iy40kb3m"}
+{"time":"2024-12-19T21:30:50.633394972+05:45","level":"INFO","msg":"stream: closed","id":"iy40kb3m"}

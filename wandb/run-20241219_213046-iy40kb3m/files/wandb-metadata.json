@@ -1,0 +1,27 @@
+{
+  "os":  "Linux-6.8.11-amd64-x86_64-with-glibc2.38",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2024-12-19T15:45:46.307302Z",
+  "program":  "/home/legion/Documents/datascience/poem_dataset/hel.ipynb",
+  "codePath":  "hel.ipynb",
+  "email":  "koobear99@gmail.com",
+  "root":  "/home/legion/Documents/datascience/poem_dataset",
+  "host":  "monkey",
+  "executable":  "/home/legion/miniconda3/bin/python",
+  "codePathLocal":  "hel.ipynb",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "249365385216",
+      "used":  "120090931200"
+    }
+  },
+  "memory":  {
+    "total":  "8016551936"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  }
+}
